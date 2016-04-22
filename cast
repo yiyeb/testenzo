@@ -1,0 +1,747 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/139.png",Baby TV Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/458.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/135.png",BOOMERANG
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/418.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/135.png",Boomerang Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/77.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/133.png",CARTOON NETWORK
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/416.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/133.png",Cartoon Network Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/76.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/609.png",BBC CBEEBIES
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/409.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/609.png",CBeebies Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/78.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/131.png",DISCOVERY KIDS
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/408.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/131.png",Discovery Kids America Latina
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/75.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/42.png",DISNEY CHANNEL
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/412.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/42.png",Disney Channel Norte
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/70.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/843.png",DISNEY JUNIOR
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/410.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/843.png",Disney Junior Norte
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/72.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/255.png",DISNEY XD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/417.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/255.png",Disney XD Norte
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/71.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/239.png",NICK JR
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/411.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/239.png",Nick Jr Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/74.ts
+#EXTINF:0,NICK TOONS
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/413.ts
+#EXTINF:0,NICK HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/414.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/817.png",NICKELODEON
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/415.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/817.png",Nickelodeon Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/73.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/137.png",TOONCAST
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/420.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/137.png",Tooncast
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/79.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/121.png",ANIMAL PLANET
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/427.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/121.png",Animal Planet Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/62.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/4.png",DISCOVERY CHANNEL
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/426.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/4.png",Discovery en Español
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/446.ts
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/432.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/44.png",DISCOVERY HOME & HEALTH
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/428.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/44.png",Discovery Home & Health Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/448.ts
+#EXTINF:0,DISCOVERY SCIENCE
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/431.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/29.png",DISCOVERY THEATER HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/421.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/29.png",Discovery Theater
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/59.ts
+#EXTINF:0,DISCOVERY TURBO
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/433.ts
+#EXTINF:0,Discovery Turbo
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/195.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/1493.png",DISCOVERY WORLD HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/425.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/1493.png",Discovery World
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/447.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/219.png",HISTORY
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/423.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/219.png",History en Español
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/449.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/119.png",H2 Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/60.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/119.png",H2 SKY
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/422.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/147.png",INVESTIGATION DISCOVERY
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/432.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/147.png",Investigation Discovery Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/81.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/35.png",NAT GEO WILD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/424.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/35.png",Nat Geo Wild Latino America
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/61.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/217.png",NATIONAL GEOGRAPHIC CHANNEL
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/429.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/217.png",National Geographic Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/450.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/149.png",DISCOVERY TLC
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/434.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/149.png",TLC Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/469.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/43.png",A&E
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/419.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/43.png",A&E Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/468.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/229.png",AMC
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/105.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/229.png",AMC
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/491.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/833.png",AXN
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/420.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/833.png",AXN Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/470.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/805.png",BBC ENTERTAINMENT
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/428.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/805.png",BBC Entertainment Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/460.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/837.png",CANAL SONY
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/415.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/837.png",Canal Sony
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/459.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/939.png",Eurochannel
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/82.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/941.png",Europa Europa
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/100.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/943.png",Film & Arts Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/101.ts
+#EXTINF:0,FOX
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/219.ts
+#EXTINF:0,FOX
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/414.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/173.png",Fox Family
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/103.ts
+#EXTINF:0,Fox Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/466.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/157.png",FOX LIFE
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/437.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/157.png",FOX Life
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/475.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/143.png",FX
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/418.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/143.png",FX Latino
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/464.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/947.png",I-Sat
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/494.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/947.png",I.SAT
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/108.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/161.png",LIFE TIME
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/430.ts
+#EXTINF:0 tvg-logo="http://latinchannel.net/logos/161.png",Lifetime Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/480.ts
+#EXTINF:0,Mundo Max
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/83.ts
+#EXTINF:0,MundoFox
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/84.ts
+#EXTINF:0,Paramount Channel Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/486.ts
+#EXTINF:0,SPACE
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/100.ts
+#EXTINF:0,SPACE
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/490.ts
+#EXTINF:0,SPACE HD
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/106.ts
+#EXTINF:0,STUDIO UNIVERSAL
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/107.ts
+#EXTINF:0,Studio Universal
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/492.ts
+#EXTINF:0,Sundance Channel Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/99.ts
+#EXTINF:0,SYFY
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/431.ts
+#EXTINF:0,Syfy Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/467.ts
+#EXTINF:0,TBS
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/439.ts
+#EXTINF:0,TBS America Latina
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/473.ts
+#EXTINF:0,TNT
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/103.ts
+#EXTINF:0,TNT
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/221.ts
+#EXTINF:0,TNT America Latina
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/487.ts
+#EXTINF:0,TNT HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/443.ts
+#EXTINF:0,TNT SERIES
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/433.ts
+#EXTINF:0,TNT Series Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/471.ts
+#EXTINF:0,UNIVERSAL CHANNEL
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/430.ts
+#EXTINF:0,Universal Channel America Latina
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/465.ts
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/417.ts
+#EXTINF:0,Warner Channel Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/462.ts
+#EXTINF:0,WARNER BROS HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/416.ts
+#EXTINF:0,Cine Dinamita
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/93.ts
+#EXTINF:0,CINECANAL
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/442.ts
+#EXTINF:0,CINECANAL
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/101.ts
+#EXTINF:0,CineCanal
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/488.ts
+#EXTINF:0,CineLatino
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/95.ts
+#EXTINF:0,CINEMAX
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/102.ts
+#EXTINF:0,Cinemax Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/489.ts
+#EXTINF:0,DE PELICULA HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/446.ts
+#EXTINF:0,Film Zone
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/495.ts
+#EXTINF:0,FILM ZONE HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/445.ts
+#EXTINF:0,Fox 1 Este
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/496.ts
+#EXTINF:0,FOX 1 HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/436.ts
+#EXTINF:0,Fox 1 Oeste
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/102.ts
+#EXTINF:0,Fox Action Este
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/498.ts
+#EXTINF:0,FOX ACTION HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/437.ts
+#EXTINF:0,Fox Action Oeste
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/105.ts
+#EXTINF:0,FOX CINÉMA
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/439.ts
+#EXTINF:0,Fox Cinema
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/497.ts
+#EXTINF:0,FOX CLASSICS
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/440.ts
+#EXTINF:0,Fox Classics Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/500.ts
+#EXTINF:0,Fox Comedy
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/104.ts
+#EXTINF:0,FOX MOVIES HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/438.ts
+#EXTINF:0,Fox Movies Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/499.ts
+#EXTINF:0,GOLDEN EDGE
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/104.ts
+#EXTINF:0,Golden Edge
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/96.ts
+#EXTINF:0,GOLDEN HD
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/444.ts
+#EXTINF:0,Golden Multiplex
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/97.ts
+#EXTINF:0,Golden Premier 1
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/176.ts
+#EXTINF:0,Golden Premier 2
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/177.ts
+#EXTINF:0,HBO Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/106.ts
+#EXTINF:0,HBO 2 Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/501.ts
+#EXTINF:0,HBO Family Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/110.ts
+#EXTINF:0,HBO Plus Este
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/108.ts
+#EXTINF:0,HBO Plus Oeste
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/502.ts
+#EXTINF:0,HBO Signature Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/111.ts
+#EXTINF:0,MAX
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/505.ts
+#EXTINF:0,Max Prime Este
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/503.ts
+#EXTINF:0,Max Prime Oeste
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/504.ts
+#EXTINF:0,Max UP Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/112.ts
+#EXTINF:0,MultiPremier
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/94.ts
+#EXTINF:0,TCM
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/109.ts
+#EXTINF:0,TCM America Latina
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/493.ts
+#EXTINF:0,AZTECA 7 HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/405.ts
+#EXTINF:0,AZTECA CINEMA
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/441.ts
+#EXTINF:0,AZTECA CLIC
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/121.ts
+#EXTINF:0,AZTECA CORAZON
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/427.ts
+#EXTINF:0,AZTECA MUNDO
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/406.ts
+#EXTINF:0,AZTECA NOTICIAS
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/401.ts
+#EXTINF:0,AZTECA TRECE
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/408.ts
+#EXTINF:0,CANAL 5 HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/403.ts
+#EXTINF:0,CANAL 11 HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/407.ts
+#EXTINF:0,Caracol Internacional
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/440.ts
+#EXTINF:0,Casa Club TV
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/85.ts
+#EXTINF:0,COMEDY CENTRAL
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/422.ts
+#EXTINF:0,Comedy Central Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/477.ts
+#EXTINF:0,DISTRITO COMEDIA
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/438.ts
+#EXTINF:0,Distrito Comedia
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/476.ts
+#EXTINF:0,E! ENTERTAINMENT
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/429.ts
+#EXTINF:0,E! Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/463.ts
+#EXTINF:0,Efekto TV
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/86.ts
+#EXTINF:0,EL GOURMET
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/434.ts
+#EXTINF:0,Elgourmet
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/472.ts
+#EXTINF:0,FASHION TV
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/425.ts
+#EXTINF:0,FORO TV HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/404.ts
+#EXTINF:0,GALAVISION HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/406.ts
+#EXTINF:0,GARAGE TV
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/435.ts
+#EXTINF:0,GLITZ
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/436.ts
+#EXTINF:0,Glitz Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/474.ts
+#EXTINF:0,HOLA TV
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/424.ts
+#EXTINF:0,HTV
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/484.ts
+#EXTINF:0,MAS CHIC
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/426.ts
+#EXTINF:0,MILENIO TV
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/118.ts
+#EXTINF:0,Multimedios Plus
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/479.ts
+#EXTINF:0,MULTIMEDIOS TV HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/412.ts
+#EXTINF:0,NBC Universo
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/132.ts
+#EXTINF:0,Palladia
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/108.ts
+#EXTINF:0,Pasiones
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/441.ts
+#EXTINF:0,PROYECTO 40
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/409.ts
+#EXTINF:0,PX TV
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/116.ts
+#EXTINF:0,RCN Novelas
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/136.ts
+#EXTINF:0,TDN Mexico
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/68.ts
+#EXTINF:0,TELE FORMULA
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/411.ts
+#EXTINF:0,TeleCentro
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/135.ts
+#EXTINF:0,Telemundo
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/442.ts
+#EXTINF:0,Telemundo Internacional
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/139.ts
+#EXTINF:0,Telemundo Internacional
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/443.ts
+#EXTINF:0,Telemundo Los Angeles
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/179.ts
+#EXTINF:0,Teletica
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/134.ts
+#EXTINF:0,TELEVISA HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/402.ts
+#EXTINF:0,TIIN
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/419.ts
+#EXTINF:0,Tlnovelas America
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/444.ts
+#EXTINF:0,Tlnovelas America
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/140.ts
+#EXTINF:0,TRENDY CHANNEL
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/407.ts
+#EXTINF:0,Tru TV America Latina
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/478.ts
+#EXTINF:0,TRUTV HD
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/421.ts
+#EXTINF:0,TV Globo Internacional
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/445.ts
+#EXTINF:0,TVE
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/120.ts
+#EXTINF:0,Unicable
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/461.ts
+#EXTINF:0,UNICABLE
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/423.ts
+#EXTINF:0,Univision Puerto Rico
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/178.ts
+#EXTINF:0,Univision TDN
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/69.ts
+#EXTINF:0,Univision TDN
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/457.ts
+#EXTINF:0,UNO MAS UNO TV
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/410.ts
+#EXTINF:0,WOBI
+http://149.56.45.203:8000/live/latinchannel-demo/br63ls7ws/435.ts
+#EXTINF:0,BANDAMAX
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/129.ts
+#EXTINF:0,Bandamax
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/485.ts
+#EXTINF:0,HMX
+http://51.255.165.99:8000/live/latinchannel-demo/br63ls7ws/413.ts
+#EXTINF:0,K Music
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/89.ts
+#EXTINF:0,MTV
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/125.ts
+#EXTINF:0,MTV HITS
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/126.ts
+#EXTINF:0,MTV Hits Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/482.ts
+#EXTINF:0,MTV Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/481.ts
+#EXTINF:0,MTV LIVE HD
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/122.ts
+#EXTINF:0,Regional Music
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/92.ts
+#EXTINF:0,RITMOSON
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/128.ts
+#EXTINF:0,TELE HIT HD
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/123.ts
+#EXTINF:0,VH1 CLASSIC
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/127.ts
+#EXTINF:0,VH1 Classic Europe
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/483.ts
+#EXTINF:0,VH1 HD
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/124.ts
+#EXTINF:0,VH1 Latino Norte
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/88.ts
+#EXTINF:0,CNN en Español
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/87.ts
+#EXTINF:0,EL FINANCIERO BLOOMBERG
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/119.ts
+#EXTINF:0,AYM SPORTS
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/117.ts
+#EXTINF:0,BeinSports en Español
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/456.ts
+#EXTINF:0,ESPN
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/111.ts
+#EXTINF:0,ESPN 2
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/112.ts
+#EXTINF:0,ESPN 2 Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/452.ts
+#EXTINF:0,ESPN 3
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/113.ts
+#EXTINF:0,ESPN 3 Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/453.ts
+#EXTINF:0,ESPN Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/451.ts
+#EXTINF:0,ESPNU
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/172.ts
+#EXTINF:0,F1
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/110.ts
+#EXTINF:0,F1 Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/64.ts
+#EXTINF:0,FOX SPORTS
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/114.ts
+#EXTINF:0,FOX SPORTS 2
+http://149.56.15.26:8000/live/latinchannel-demo/br63ls7ws/115.ts
+#EXTINF:0,Fox Sports Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/454.ts
+#EXTINF:0,Fox Sports 2 Latinoamerica
+http://149.56.109.75:8000/live/latinchannel-demo/br63ls7ws/455.ts
+#EXTINF:0,Fox Sports 3 Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/63.ts
+#EXTINF:0,Planeta Futbol
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/67.ts
+#EXTINF:0,UFC Network Latinoamerica
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/65.ts
+#EXTINF:0,ABC Family
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/188.ts
+#EXTINF:0,Boomerang USA
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/186.ts
+#EXTINF:0,Cartoon Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/187.ts
+#EXTINF:0,Discovery Family
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/191.ts
+#EXTINF:0,Disney Channel East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/184.ts
+#EXTINF:0,Disney XD
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/185.ts
+#EXTINF:0,Nickelodeon East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/183.ts
+#EXTINF:0,Teen Nick
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/189.ts
+#EXTINF:0,Animal Planet
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/192.ts
+#EXTINF:0,Cooking Channel
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/202.ts
+#EXTINF:0,Crime   Investigation Network USA
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/210.ts
+#EXTINF:0,Discovery Channel USA
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/190.ts
+#EXTINF:0,Discovery History
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/207.ts
+#EXTINF:0,DIY Network USA
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/204.ts
+#EXTINF:0,Food Network East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/201.ts
+#EXTINF:0,Good Food
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/200.ts
+#EXTINF:0,Science Channel
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/198.ts
+#EXTINF:0,H2 USA
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/209.ts
+#EXTINF:0,History
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/208.ts
+#EXTINF:0,Investigation Discovery
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/197.ts
+#EXTINF:0,Nat Geo Wild
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/193.ts
+#EXTINF:0,National Geographic Channel
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/194.ts
+#EXTINF:0,TLC
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/211.ts
+#EXTINF:0,5 StarMax
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/73.ts
+#EXTINF:0,5 USA
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/195.ts
+#EXTINF:0,A&E East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/206.ts
+#EXTINF:0,AMC East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/216.ts
+#EXTINF:0,BBC America
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/220.ts
+#EXTINF:0,BBC ONE
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/192.ts
+#EXTINF:0,BBC TWO
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/193.ts
+#EXTINF:0,BBC Four
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/194.ts
+#EXTINF:0,Bravo East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/214.ts
+#EXTINF:0,CBS Action
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/215.ts
+#EXTINF:0,CBS Reality
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/199.ts
+#EXTINF:0,Comedy Central East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/198.ts
+#EXTINF:0,Concert Channel
+http://149.56.15.27:8000/live/latinchannel-demo/br63ls7ws/90.ts
+#EXTINF:0,Dmax
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/196.ts
+#EXTINF:0,E!
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/205.ts
+#EXTINF:0,Film 4
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/107.ts
+#EXTINF:0,FXX East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/206.ts
+#EXTINF:0,Hallmark Movies & Mysteries
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/109.ts
+#EXTINF:0,HGTV East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/203.ts
+#EXTINF:0,IFC East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/218.ts
+#EXTINF:0,ION Television East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/211.ts
+#EXTINF:0,ITV
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/185.ts
+#EXTINF:0,ITV 2
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/186.ts
+#EXTINF:0,ITV 3
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/187.ts
+#EXTINF:0,ITV 4
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/188.ts
+#EXTINF:0,ITV Be
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/189.ts
+#EXTINF:0,ITV Encore
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/190.ts
+#EXTINF:0,Lifetime East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/199.ts
+#EXTINF:0,Ovation
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/209.ts
+#EXTINF:0,Oxygen
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/212.ts
+#EXTINF:0,Spike TV
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/207.ts
+#EXTINF:0,Syfy
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/210.ts
+#EXTINF:0,TBS East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/222.ts
+#EXTINF:0,Tru TV East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/208.ts
+#EXTINF:0,TV Land
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/197.ts
+#EXTINF:0,USA Network East
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/196.ts
+#EXTINF:0,WE TV
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/213.ts
+#EXTINF:0,WGN America
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/205.ts
+#EXTINF:0,BBC News
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/204.ts
+#EXTINF:0,BBC World News
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/203.ts
+#EXTINF:0,CNN US
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/200.ts
+#EXTINF:0,Fox News Channel
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/201.ts
+#EXTINF:0,SKY News
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/202.ts
+#EXTINF:0,CBS Sports Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/180.ts
+#EXTINF:0,ESPN US
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/223.ts
+#EXTINF:0,ESPN 2 US
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/174.ts
+#EXTINF:0,ESPNews US
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/173.ts
+#EXTINF:0,Fox Sports 1 US
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/175.ts
+#EXTINF:0,Fox Sports 2 US
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/176.ts
+#EXTINF:0,MLB Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/177.ts
+#EXTINF:0,NBC Sport Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/181.ts
+#EXTINF:0,NFL Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/178.ts
+#EXTINF:0,SKY Sports 1
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/111.ts
+#EXTINF:0,SKY Sports 2
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/112.ts
+#EXTINF:0,SKY Sports 3
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/113.ts
+#EXTINF:0,SKY Sports 4
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/114.ts
+#EXTINF:0,SKY Sports 5
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/115.ts
+#EXTINF:0,SKY Sports F1
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/116.ts
+#EXTINF:0,SKY Sports News
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/182.ts
+#EXTINF:0,UFC Network
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/179.ts
+#EXTINF:0,ActionMax East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/72.ts
+#EXTINF:0,Cinemax East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/70.ts
+#EXTINF:0,Cinemax West
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/71.ts
+#EXTINF:0,Encore Action East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/86.ts
+#EXTINF:0,Encore East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/84.ts
+#EXTINF:0,Encore Westerns
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/85.ts
+#EXTINF:0,HBO 2 East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/213.ts
+#EXTINF:0,HBO 2 West
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/216.ts
+#EXTINF:0,HBO Comedy East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/218.ts
+#EXTINF:0,HBO East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/212.ts
+#EXTINF:0,HBO Family East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/217.ts
+#EXTINF:0,HBO Signature East
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/214.ts
+#EXTINF:0,HBO West
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/215.ts
+#EXTINF:0,HBO Zone
+http://149.56.110.13:8000/live/latinchannel-demo/br63ls7ws/219.ts
+#EXTINF:0,Movies 24
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/106.ts
+#EXTINF:0,Showtime 2 East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/77.ts
+#EXTINF:0,Showtime Beyond East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/80.ts
+#EXTINF:0,Showtime East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/75.ts
+#EXTINF:0,Showtime Extreme East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/79.ts
+#EXTINF:0,Showtime Next
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/81.ts
+#EXTINF:0,Showtime Showcase East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/78.ts
+#EXTINF:0,Showtime West
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/76.ts
+#EXTINF:0,SKY Action & Adventure
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/98.ts
+#EXTINF:0,SKY Comedy
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/99.ts
+#EXTINF:0,SKY Crime & Thriller
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/100.ts
+#EXTINF:0,SKY Disney
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/96.ts
+#EXTINF:0,SKY Family
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/97.ts
+#EXTINF:0,SKY Modern Greats
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/95.ts
+#EXTINF:0,SKY Movies Drama
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/101.ts
+#EXTINF:0,SKY One
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/191.ts
+#EXTINF:0,SKY Premiere
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/94.ts
+#EXTINF:0,SKY Scifi & Horror
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/102.ts
+#EXTINF:0,SKY Select
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/103.ts
+#EXTINF:0,Sony Movie Channel USA
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/110.ts
+#EXTINF:0,Starz Cinema East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/90.ts
+#EXTINF:0,Starz Comedy East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/91.ts
+#EXTINF:0,Starz East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/87.ts
+#EXTINF:0,Starz Edge East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/89.ts
+#EXTINF:0,Starz In Black East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/92.ts
+#EXTINF:0,Starz Kids & Family East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/93.ts
+#EXTINF:0,Starz West
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/88.ts
+#EXTINF:0,TCM US
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/217.ts
+#EXTINF:0,The Movie Channel East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/82.ts
+#EXTINF:0,The Movie Channel Xtra East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/83.ts
+#EXTINF:0,ThrillerMax East
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/74.ts
+#EXTINF:0,True Movies 1
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/104.ts
+#EXTINF:0,True Movies 2
+http://149.56.110.130:8000/live/latinchannel-demo/br63ls7ws/105.ts
+#EXTINF:0,Juicy
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/183.ts
+#EXTINF:0,Real
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/182.ts
+#EXTINF:0,Secrets
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/181.ts
+#EXTINF:0,Venus
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/180.ts
+#EXTINF:0,Xtsy XXX
+http://149.56.15.28:8000/live/latinchannel-demo/br63ls7ws/184.ts
